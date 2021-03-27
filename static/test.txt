@@ -1,0 +1,3 @@
+This is a demo file.
+Because empty static folder is not recognized by git.
+Now static folder will be recognized and added to git repository
